@@ -1,4 +1,4 @@
-# :video_game: Whac A Mole
+# :video_game:Whac A Mole
 ![페이지 이미지](./image/whac_a_mole.png)
 > Whac A Mole의 페이지 화면
 
