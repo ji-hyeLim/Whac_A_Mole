@@ -6,11 +6,11 @@
 <br>
 
 ## :small_blue_diamond: About
-:game_die: **사용 소스**: HTML, CSS, JAVASCRIPT
+:game_die: **사용 소스** : HTML, CSS, JAVASCRIPT
 <br>
-:game_die: **작업 인원**: 1명
+:game_die: **작업 인원** : 1명
 <br>
-:game_die: **제작 기간**: 7일
+:game_die: **제작 기간** : 7일
 <br>
 <br>
 
