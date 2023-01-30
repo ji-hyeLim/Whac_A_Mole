@@ -25,5 +25,6 @@
 <br>
 :stopwatch: **제한 시간**: 30초
 
+
 ## :link: Link
 https://limjh0927.cafe24.com/profile/works/javascript/Whac_A_Mole/index.html
